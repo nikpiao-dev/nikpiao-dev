@@ -33,6 +33,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikpiao-dev&show_icons=true&locale=en&layout=compact" alt="nikpiao-dev" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nikpiao-dev&show_icons=true&locale=en" alt="nikpiao-dev" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nikpiao-dev&" alt="nikpiao-dev" /></p>
