@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on [ViteReact-Project](https://github.com/nikpiao-dev/ViteReact-Project)
 
 - 🌱 I’m currently learning **React, PHP, MongoDB**
-- 🌱 I’m  also currently reviewing SQL
+- 🌱 I’m  also currently reviewing **SQL
 
 - 👨‍💻 All of my projects are available at [https://nikpiao-dev.github.io/web-portfolio/](https://nikpiao-dev.github.io/web-portfolio/)
 
