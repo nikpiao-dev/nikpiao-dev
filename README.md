@@ -3,7 +3,6 @@
 
 <p align="center">
   <img src="https://tryhackme-badges.s3.amazonaws.com/np430.png" alt="Your Image Badge" />
-  <img src="https://komarev.com/ghpvc/?username=nikpiao-dev&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 ### 🚀 About Me:  
@@ -17,9 +16,10 @@
 - ⚡ Fun fact: **I enjoy playing Dota 2 and Pokémon.**
 
 
-### 📊 GitHub Stats:
+### 📊 GitHub Stats: 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nikpiao-dev&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img src="https://komarev.com/ghpvc/?username=nikpiao-dev&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 ### 📬 Connect with Me:
