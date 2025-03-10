@@ -8,19 +8,20 @@
 ### 🚀 About Me:  
 - 🌱 I’m currently learning on the **TryHackMe** platform.  
 - 📚 I’m studying for the **CompTIA Security+** exam.  
-- 🖥️ I’m using the **Cisco NetAcad Junior Cybersecurity Path** for the **CCST Cybersecurity** exam.  
+- 🖥️ I’m enrolled in the **Cisco NetAcad Junior Cybersecurity Path**, which is designed for the **CCST Cybersecurity** exam.   
 - 🎓 I recently finished the **Google Cybersecurity Specialization** on **Coursera**
-- - 📝 Future tasks: Pass the **CompTIA Security+** exam and apply for an **entry-level cybersecurity job** to start my career.  
+- 🎯 Next on my list: **Strengthen my knowledge in SQL and Python**.
+- 📝 Future tasks: Pass the **CompTIA Security+** exam and apply for an **entry-level cybersecurity job** to start my career.  
 - 👨‍💻 Check out my projects: [Portfolio Website](https://nikpiao-dev.github.io/web-portfolio/).  
 - 📫 Reach me at: **nik.piao26@gmail.com**.  
 - ⚡ Fun fact: **I enjoy playing Dota 2 and Pokémon.**
 
 
 ### 📊 GitHub Stats: 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nikpiao-dev&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-  <img src="https://komarev.com/ghpvc/?username=nikpiao-dev&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
+<div>
+  <p><img align="left" src="https://komarev.com/ghpvc/?username=nikpiao-dev&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /></p>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikpiao-dev&show_icons=true&locale=en&layout=compact" alt="nikpiao-dev" /></p>
+</div>
 
 ### 📬 Connect with Me:
 <p align="left">
