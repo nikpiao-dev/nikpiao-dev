@@ -1,10 +1,10 @@
-![Header](./github-header-image.png)
+![Header](https://example.com/cybersecurity-learner-banner.png)
 
 <h1 align="center">Hi 👋, I'm Nikki Piao</h1>
 <h3 align="center">A passionate cybersecurity student, learner, and enthusiast based in Florida, USA.</h3>
 
 <p align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/3310876.png" alt="TryHackMe Badge" />
+  <img src="https://tryhackme-badges.s3.amazonaws.com/np430.png" alt="Your Image Badge" />
 </p>
 
 <p align="left"> 
