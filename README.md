@@ -1,9 +1,7 @@
 ![Header](./github-header-image.png)
 <h1 align="center">Hi 👋, I'm Nikki Piao</h1>
-<h3 align="center">A passionate and aspiring cybersecurity student, learner, and enthusiast based in Florida, USA.</h3>
-<img align="right" alt="Coding guy" width="400" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" alt="">
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3310876" style='border:none;'></iframe>
-
+<h3 align="center">A passionate cybersecurity student, learner, and enthusiast based in Florida, USA.</h3>
+![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/np430.png)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikpiao-dev&label=Profile%20views&color=0e75b6&style=flat" alt="nikpiao-dev" /> </p>
 
 - 🔭 I’m currently working on [ViteReact-Project](https://github.com/nikpiao-dev/ViteReact-Project)
@@ -13,13 +11,9 @@
 
 - 👨‍💻 All of my projects are available at [https://nikpiao-dev.github.io/web-portfolio/](https://nikpiao-dev.github.io/web-portfolio/)
 
-- 📄 Know about my latest experience [https://www.dropbox.com/scl/fi/tjqrpptbdrazwpde2mxy5/Piao_Nikki_Resume2024.pdf?rlkey=725c6m94hxqmiam4l5l7jlsuh&st=ggdloorp&dl=0](https://www.dropbox.com/scl/fi/tjqrpptbdrazwpde2mxy5/Piao_Nikki_Resume2024.pdf?rlkey=725c6m94hxqmiam4l5l7jlsuh&st=ggdloorp&dl=0)
-
 - 🌱 Will be learning next **Django, Bootstrap**
 
 - 📫 How to reach me **nik.piao26@gmail.com**
-
-- 📝 My previous career [https://www.dropbox.com/scl/fi/to90a7smaxs6mal75eg3i/Nikki_Piao_Resume2024.pdf?rlkey=oodw1jm46bp790x16kzzg8zu5&e=1&st=64sl47wg&dl=0](https://www.dropbox.com/scl/fi/to90a7smaxs6mal75eg3i/Nikki_Piao_Resume2024.pdf?rlkey=oodw1jm46bp790x16kzzg8zu5&e=1&st=64sl47wg&dl=0)
 
 - ⚡ Fun fact **I enjoy playing Dota 2 and Pokémon.**
 
