@@ -1,23 +1,21 @@
-![Header](https://example.com/cybersecurity-learner-banner.png)
-
 <h1 align="center">Hi 👋, I'm Nikki Piao</h1>
 <h3 align="center">A passionate cybersecurity student, learner, and enthusiast based in Florida, USA.</h3>
 
 <p align="center">
   <img src="https://tryhackme-badges.s3.amazonaws.com/np430.png" alt="Your Image Badge" />
-</p>
-
-<p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=nikpiao-dev&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-### 🚀 About Me:
-- 🔭 I’m currently working on [ViteReact-Project](https://github.com/nikpiao-dev/ViteReact-Project).  
-- 🌱 I’m currently learning **React, PHP, MongoDB** and reviewing **SQL**.  
-- 🎯 Next on my list: **Django, Bootstrap**.  
+### 🚀 About Me:  
+- 🌱 I’m currently learning on the **TryHackMe** platform.  
+- 📚 I’m studying for the **CompTIA Security+** exam.  
+- 🖥️ I’m using the **Cisco NetAcad Junior Cybersecurity Path** for the **CCST Cybersecurity** exam.  
+- 🎓 I recently finished the **Google Cybersecurity Specialization** on **Coursera**
+- - 📝 Future tasks: Pass the **CompTIA Security+** exam and apply for an **entry-level cybersecurity job** to start my career.  
 - 👨‍💻 Check out my projects: [Portfolio Website](https://nikpiao-dev.github.io/web-portfolio/).  
 - 📫 Reach me at: **nik.piao26@gmail.com**.  
-- ⚡ Fun fact: **I enjoy playing Dota 2 and Pokémon.**  
+- ⚡ Fun fact: **I enjoy playing Dota 2 and Pokémon.**
+
 
 ### 📊 GitHub Stats:
 <p align="left">
