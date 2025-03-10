@@ -68,7 +68,7 @@
 ### 🖥️ Operating Systems:
 <p align="left">
   <a href="https://www.microsoft.com/windows" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Windows_logo_2021.svg" alt="Windows" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/devicon/icons/windows8/windows8-original.svg" alt="Windows" width="40" height="40"/>
   </a>
   <a href="https://www.apple.com/macos" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" alt="MacOS" width="40" height="40"/>
@@ -77,3 +77,4 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
   </a>
 </p>
+
