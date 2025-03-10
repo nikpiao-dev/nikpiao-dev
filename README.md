@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nikki Piao</h1>
-<h3 align="center">A passionate cybersecurity student, learner, and enthusiast based in Florida, USA.</h3>
+<h3 align="center">A passionate cybersecurity student and enthusiast based in Florida, USA.</h3>
 
 <p align="center">
   <img src="https://tryhackme-badges.s3.amazonaws.com/np430.png" alt="Your Image Badge" />
