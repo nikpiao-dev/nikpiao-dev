@@ -2,7 +2,7 @@
 <h3 align="center">A passionate cybersecurity student and enthusiast based in Florida, USA.</h3>
 
 <p align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/np430.png" alt="Your Image Badge" />
+   <img src="https://tryhackme-badges.s3.amazonaws.com/np430.png" alt="Your Image Badge" />
 </p>
 
 ### 🚀 About Me:  
