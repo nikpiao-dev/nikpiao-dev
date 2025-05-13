@@ -53,6 +53,8 @@
 
 I enjoy playing **Dota 2** and **Pokémon** in my free time!
 
+---
+
 
 ### 📊 GitHub Stats: 
 <p align="left">
