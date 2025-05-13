@@ -55,7 +55,7 @@
 
 ### ⚡ Fun Fact
 
-I enjoy playing **Dota 2** and **Pokémon** in my free time!
+- I enjoy playing **Dota 2** and **Pokémon** in my free time!
 
 ---
 
