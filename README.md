@@ -1,24 +1,63 @@
-<h1 align="center">Hi 👋, I'm Nikki Piao</h1>
-<h3 align="center">A passionate cybersecurity student and enthusiast based in Florida, USA.</h3>
+<h1 align="center">Hi 👋, I'm Nik</h1>
+<h3 align="center">A passionate and curious learner diving deep into **cybersecurity**</h3>
 
 <p align="center">
-   <img src="https://tryhackme-badges.s3.amazonaws.com/np430.png" alt="Your Image Badge" />
+   <img src="https://tryhackme-badges.s3.amazonaws.com/np430.png" alt="TryHackMe Badge" />
 </p>
 
-### 🚀 About Me:  
-- 🌱 I’m currently learning on the **TryHackMe** and **Codedex** platforms.  
-- 📚 I’m studying for the **CompTIA Security+** exam.  
-- 🖥️ I’m enrolled in the **Cisco NetAcad Junior Cybersecurity Path**, which is designed for the **CCST Cybersecurity** exam.   
-- 🛠️ I’m currently working on the Google IT Support Professional Certificate on Coursera.
+---
 
-- 🎓 I recently finished the **Google Cybersecurity Specialization** on **Coursera**
-- 🎯 Next on my list: **Strengthen my knowledge in SQL and Python**.
-- 📝 Future tasks: Pass the **CompTIA Security+** exam and apply for an **entry-level cybersecurity job** to start my career.
+### ⚡ Fun Fact
 
-- 👨‍💻 Check out my projects: [Portfolio Website](https://nikpiao-dev.github.io/web-portfolio/).
-- 🧠 Visit my Codedex profile: codedex.io/@np430
-- 📫 Reach me at: **nik.piao26@gmail.com**.  
-- ⚡ Fun fact: **I enjoy playing Dota 2 and Pokémon.**
+I enjoy playing **Dota 2** and **Pokémon** in my free time!
+I enjoy learning new skills every day. 
+---
+
+## 🚀 About Me
+
+Here's what I'm currently up to:
+
+---
+
+### 📖 Currently Learning
+
+- 🌐 Platforms:  
+  - **TryHackMe** – Hands-on cybersecurity labs  
+  - **Codedex** – Learn-to-code RPG adventure  
+
+- 💻 Courses & Certifications:  
+  - Studying for the **CompTIA Security+** exam  
+  - Enrolled in the **Cisco NetAcad Junior Cybersecurity Path** (for the **CCST Cybersecurity** exam)  
+  - Working on the **Google IT Support Professional Certificate** (Coursera)  
+
+---
+
+### 🎓 Recently Completed
+
+- ✅ **Google Cybersecurity Specialization** (Coursera)
+
+---
+
+### 🎯 Current Goals
+
+- Strengthen my knowledge in **SQL** and **Python**  
+- Pass the **CompTIA Security+** certification  
+- Apply for an **entry-level cybersecurity job** or **entry-level sofware development job** to start my career 
+
+---
+
+### 💼 Projects & Profiles
+
+- 🌐 **Portfolio Website**: [nikpiao-dev.github.io/web-portfolio](https://nikpiao-dev.github.io/web-portfolio/)
+- 🧠 **Codedex Profile**: [codedex.io/@np430](https://codedex.io/@np430)
+
+---
+
+### 📫 Contact Me
+
+- ✉️ Email: **nik.piao26@gmail.com**
+
+---
 
 
 ### 📊 GitHub Stats: 
