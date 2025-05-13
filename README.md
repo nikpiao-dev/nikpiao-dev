@@ -10,7 +10,6 @@
 ### ⚡ Fun Fact
 
 I enjoy playing **Dota 2** and **Pokémon** in my free time!
-I enjoy learning new skills every day. 
 ---
 
 ## 🚀 About Me
