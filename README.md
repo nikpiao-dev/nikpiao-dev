@@ -25,6 +25,7 @@
 ### 🎓 Recently Completed
 
 - ✅ **Google Cybersecurity Specialization** (Coursera)
+- ✅ **Mastercard Cybersecurity virtual experience program** on **Forage** 
 
 ---
 
