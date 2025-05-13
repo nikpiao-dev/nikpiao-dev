@@ -15,10 +15,6 @@ I enjoy learning new skills every day.
 
 ## 🚀 About Me
 
-Here's what I'm currently up to:
-
----
-
 ### 📖 Currently Learning
 
 - 🌐 Platforms:  
