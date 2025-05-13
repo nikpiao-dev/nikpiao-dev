@@ -7,11 +7,6 @@
 
 ---
 
-### ⚡ Fun Fact
-
-I enjoy playing **Dota 2** and **Pokémon** in my free time!
----
-
 ## 🚀 About Me
 
 ### 📖 Currently Learning
@@ -53,6 +48,10 @@ I enjoy playing **Dota 2** and **Pokémon** in my free time!
 - ✉️ Email: **nik.piao26@gmail.com**
 
 ---
+
+### ⚡ Fun Fact
+
+I enjoy playing **Dota 2** and **Pokémon** in my free time!
 
 
 ### 📊 GitHub Stats: 
