@@ -30,7 +30,9 @@
 
 ### 🎯 Current Goals
 
-- Strengthen my knowledge in **SQL** and **Python**  
+- Strengthen my knowledge in **SQL** and **Python**
+- Practice and solidify my **JavaScript** fundamentals
+- Review and improve my **React** basics for web development
 - Pass the **CompTIA Security+** certification  
 - Apply for an **entry-level cybersecurity job** or **entry-level sofware development job** to start my career 
 
