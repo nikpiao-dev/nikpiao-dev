@@ -9,10 +9,12 @@
 - 🌱 I’m currently learning on the **TryHackMe** and **Codedex** platforms.  
 - 📚 I’m studying for the **CompTIA Security+** exam.  
 - 🖥️ I’m enrolled in the **Cisco NetAcad Junior Cybersecurity Path**, which is designed for the **CCST Cybersecurity** exam.   
-- 🎓 I recently finished the **Google Cybersecurity Specialization** on **Coursera**
 - 🛠️ I’m currently working on the Google IT Support Professional Certificate on Coursera.
+
+- 🎓 I recently finished the **Google Cybersecurity Specialization** on **Coursera**
 - 🎯 Next on my list: **Strengthen my knowledge in SQL and Python**.
-- 📝 Future tasks: Pass the **CompTIA Security+** exam and apply for an **entry-level cybersecurity job** to start my career.  
+- 📝 Future tasks: Pass the **CompTIA Security+** exam and apply for an **entry-level cybersecurity job** to start my career.
+
 - 👨‍💻 Check out my projects: [Portfolio Website](https://nikpiao-dev.github.io/web-portfolio/).
 - 🧠 Visit my Codedex profile: codedex.io/@np430
 - 📫 Reach me at: **nik.piao26@gmail.com**.  
