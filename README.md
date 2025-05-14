@@ -81,9 +81,6 @@
   <a href="https://instagram.com/nikp22" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
-  <a href="https://codedex.io/@np430" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codedex.svg" alt="Codedex" height="30" width="40" />
-  </a>
 </p>
 
 ### 🛠️ Languages and Tools:
