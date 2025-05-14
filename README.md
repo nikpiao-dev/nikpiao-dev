@@ -41,8 +41,6 @@
 
 ### 💼 Projects & Profiles
 
-### 💼 Projects & Profiles
-
 - 🌐 **Portfolio Website**: [nikpiao-dev.github.io/web-portfolio](https://nikpiao-dev.github.io/web-portfolio)
 - 🧠 **Codedex Profile**: [codedex.io/@np430](https://codedex.io/@np430)
 - 🤝 **WCoding Final Group Project**: [github.com/habibullo-dev/fullstack-project](https://github.com/habibullo-dev/fullstack-project)
