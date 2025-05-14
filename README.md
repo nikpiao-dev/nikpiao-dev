@@ -47,7 +47,7 @@
 - 🧠 **Codedex Profile**: [codedex.io/@np430](https://codedex.io/@np430)
 - 🤝 **WCoding Final Group Project**: [github.com/habibullo-dev/fullstack-project](https://github.com/habibullo-dev/fullstack-project)
 - 📸 **Instagram**: [instagram.com/nikp22](https://www.instagram.com/nikp22/)
-- 💬 **Discord**: (Add or DM me on Discord: dabbing_panda30)
+- 💬 **Discord**: Add or DM me (dabbing_panda30)
 
 ---
 
