@@ -12,13 +12,12 @@
 ### 📖 Currently Learning
 
 - 🌐 Platforms
-
-- **TryHackMe** – Hands-on cybersecurity labs  
-- **HTB Academy** – Interactive cybersecurity training  
-- **Coursera** – Online courses and professional certificates  
-- **NetAcad** – Cisco Networking Academy for networking and cybersecurity  
-- **Professor Messer** – Free certification prep for CompTIA exams  
-- **Codedex** – Learn-to-code RPG adventure  
+   - **TryHackMe** – Hands-on cybersecurity labs  
+   - **HTB Academy** – Interactive cybersecurity training  
+   - **Coursera** – Online courses and professional certificates  
+   - **NetAcad** – Cisco Networking Academy for networking and cybersecurity  
+   - **Professor Messer** – Free certification prep for CompTIA exams  
+   - **Codedex** – Learn-to-code RPG adventure  
 
 
 - 💻 Courses & Certifications:  
