@@ -29,40 +29,40 @@
 
 ### 🎓 Recently Completed
 
-- ✅ **Google Cybersecurity Specialization** (Coursera)
-- ✅ **Mastercard Cybersecurity virtual experience program** (Forage)
+   - ✅ **Google Cybersecurity Specialization** (Coursera)
+   - ✅ **Mastercard Cybersecurity virtual experience program** (Forage)
 
 ---
 
 ### 🎯 Current Goals
 
-- Strengthen my knowledge in **SQL** and **Python**
-- Practice and solidify my **JavaScript** fundamentals
-- Review and improve my **React** basics for web development
-- Pass the **CompTIA Security+** certification  
-- Apply for an **entry-level cybersecurity job** or **entry-level sofware development job** to start my career 
+   - Strengthen my knowledge in **SQL** and **Python**
+   - Practice and solidify my **JavaScript** fundamentals
+   - Review and improve my **React** basics for web development
+   - Pass the **CompTIA Security+** certification  
+   - Apply for an **entry-level cybersecurity job** or **entry-level sofware development job** to start my career 
 
 ---
 
 ### 💼 Projects & Profiles
 
-- 🌐 **Portfolio Website**: [nikpiao-dev.github.io/web-portfolio](https://nikpiao-dev.github.io/web-portfolio)
-- 🧠 **Codedex Profile**: [codedex.io/@np430](https://codedex.io/@np430)
-- 🤝 **WCoding Final Group Project**: [github.com/habibullo-dev/fullstack-project](https://github.com/habibullo-dev/fullstack-project)
-- 📸 **Instagram**: [instagram.com/nikp22](https://www.instagram.com/nikp22/)
-- 💬 **Discord**: Add or DM me (dabbing_panda30)
+   - 🌐 **Portfolio Website**: [nikpiao-dev.github.io/web-portfolio](https://nikpiao-dev.github.io/web-portfolio)
+   - 🧠 **Codedex Profile**: [codedex.io/@np430](https://codedex.io/@np430)
+   - 🤝 **WCoding Final Group Project**: [github.com/habibullo-dev/fullstack-project](https://github.com/habibullo-dev/fullstack-project)
+   - 📸 **Instagram**: [instagram.com/nikp22](https://www.instagram.com/nikp22/)
+   - 💬 **Discord**: Add or DM me (dabbing_panda30)
 
 ---
 
 ### 📫 Contact Me
 
-- ✉️ Email: **nik.piao26@gmail.com**
+   - ✉️ Email: **nik.piao26@gmail.com**
 
 ---
 
 ### ⚡ Fun Fact
 
-- I enjoy playing **Dota 2** and **Pokémon** in my free time!
+   - I enjoy playing **Dota 2** and **Pokémon** in my free time!
 
 ---
 
