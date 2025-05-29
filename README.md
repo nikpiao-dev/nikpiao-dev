@@ -31,6 +31,7 @@
 
    - ✅ **Google Cybersecurity Specialization** (Coursera)
    - ✅ **Mastercard Cybersecurity virtual experience program** (Forage)
+   - ✅ **The Origins Trilogy: HTML, CSS, Javascript** (Codédex)
 
 ---
 
