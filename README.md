@@ -17,12 +17,13 @@
    - **Coursera** – Online courses and professional certificates  
    - **Netcad** – Cisco Networking Academy for networking and cybersecurity  
    - **Professor Messer** – Free certification prep for CompTIA exams  
-   - **Codedex** – Learn-to-code RPG adventure  
+   - **Codédex** – Learn-to-code RPG adventure  
 
 
 - 💻 Courses & Certifications:  
   - Studying for the **CompTIA Security+** exam  
-  - Enrolled in the **Cisco NetAcad Junior Cybersecurity Path** (for the **CCST Cybersecurity** exam)   
+  - Enrolled in the **Cisco NetAcad Junior Cybersecurity Path** (for the **CCST Cybersecurity** exam)
+  - Currently taking the **Codédex React Course** (Intermediate) 
 
 ---
 
