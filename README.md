@@ -39,6 +39,7 @@
    - ✅ **Mastercard Cybersecurity virtual experience program** (Forage)
    - ✅ **The Origins Trilogy: HTML, CSS, Javascript** (Codédex)
    - ✅ **The Legends of Python: Python, Intermediate Python, Numpy** (Codédex)
+   - ✅ **Python Programming Fundamentals Skill Track** (DataCamp)
 
 ---
 
