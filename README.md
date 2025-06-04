@@ -15,16 +15,21 @@
    - **TryHackMe** – Hands-on cybersecurity labs  
    - **HTB Academy** – Interactive cybersecurity training  
    - **Coursera** – Online courses and professional certificates  
-   - **NetAcad** – Cisco Networking Academy for networking and cybersecurity  
+   - **Netcad** – Cisco Networking Academy for networking and cybersecurity  
    - **Professor Messer** – Free certification prep for CompTIA exams  
    - **Codedex** – Learn-to-code RPG adventure  
 
 
 - 💻 Courses & Certifications:  
   - Studying for the **CompTIA Security+** exam  
-  - Enrolled in the **Cisco NetAcad Junior Cybersecurity Path** (for the **CCST Cybersecurity** exam)  
-  - Working on the **Google IT Support Professional Certificate** (Coursera)  
+  - Enrolled in the **Cisco NetAcad Junior Cybersecurity Path** (for the **CCST Cybersecurity** exam)   
 
+---
+
+### ⏳ Ongoing Process
+
+   - ✅ - Working on the **Google IT Support Professional Certificate** (Coursera) 
+   
 ---
 
 ### 🎓 Recently Completed
@@ -32,6 +37,7 @@
    - ✅ **Google Cybersecurity Specialization** (Coursera)
    - ✅ **Mastercard Cybersecurity virtual experience program** (Forage)
    - ✅ **The Origins Trilogy: HTML, CSS, Javascript** (Codédex)
+   - ✅ **The Legends of Python: Python, Intermediate Python, Numpy** (Codédex)
 
 ---
 
