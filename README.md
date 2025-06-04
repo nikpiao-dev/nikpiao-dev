@@ -2,7 +2,7 @@
 <h3 align="center">A passionate and curious learner diving deep into **cybersecurity**</h3>
 
 <p align="center">
-   <img src="https://tryhackme-badges.s3.amazonaws.com/np430.png" alt="TryHackMe Badge" />
+   <img src="https://tryhackme-badges.s3.amazonaws.com/np430.png" alt="Your Image Badge" />
 </p>
 
 ---
