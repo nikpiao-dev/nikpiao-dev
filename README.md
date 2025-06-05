@@ -1,13 +1,16 @@
 <h1 align="center">Hi 👋, I'm Nik</h1>
 <h3 align="center">A passionate and curious learner diving deep into **cybersecurity**</h3>
 
-<p align="center">
-   <img src="https://tryhackme-badges.s3.amazonaws.com/np430.png" alt="Your Image Badge" />
-</p>
+![GitHub Header](github-header-image.png)
 
 ---
 
 ## 🚀 About Me:
+
+<p align="center">
+   <img src="https://tryhackme-badges.s3.amazonaws.com/np430.png" alt="Your Image Badge" />
+</p>
+
 
 ### 📖 Currently Learning
 
