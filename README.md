@@ -5,10 +5,10 @@
 ---
 
 <p align="center"><img src="https://tryhackme-badges.s3.amazonaws.com/np430.png" alt="Your Image Badge" /></p>
-<p><strong>🚀 About Me:</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A passionate and curious learner diving deep into <strong>cybersecurity</strong></p>
-
+<h3 align="center"> A passionate and curious learner diving deep into <strong>cybersecurity</strong></h3>
 
 --- 
+<h3 align="left"><strong>🚀 About Me:</strong></h3>
 
 ### 📖 Currently Learning
 
