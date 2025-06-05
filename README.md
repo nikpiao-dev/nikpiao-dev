@@ -6,11 +6,9 @@
 
 <p align="center"><img src="https://tryhackme-badges.s3.amazonaws.com/np430.png" alt="Your Image Badge" /></p>
 <h3 align="center">
-  A passionate and curious learner diving deep into 
-  <img src="https://img.shields.io/badge/Cybersecurity-%F0%9F%94%90%20Passion-red" alt="Cybersecurity badge">Cybersecurity
+  A passionate and curious learner diving deep into
+  <img src="https://img.shields.io/badge/Cybersecurity-%F0%9F%94%90-blue" alt="Cybersecurity badge">
 </h3>
-
-
 
 --- 
 <h3 align="left"><strong>🚀 About Me:</strong></h3>
