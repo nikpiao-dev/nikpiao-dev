@@ -1,9 +1,13 @@
 <h1 align="center">Hi 👋, My name is Nik</h1>
+
 ![GitHub Header](github-header-image.png)
 
 ---
+
 <p align="center"><img src="https://tryhackme-badges.s3.amazonaws.com/np430.png" alt="Your Image Badge" /></p>
-<h3 align="center">## 🚀 About Me: A passionate and curious learner diving deep into **cybersecurity**</h3>
+<h3 align="center">🚀 About Me: A passionate and curious learner diving deep into **cybersecurity**</h3>
+
+--- 
 
 ### 📖 Currently Learning
 
