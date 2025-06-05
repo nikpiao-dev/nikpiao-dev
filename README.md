@@ -20,10 +20,17 @@
    - **Codédex** – Learn-to-code RPG adventure  
 
 
-- 💻 Courses & Certifications:  
-  - Studying for the **CompTIA Security+** exam  
-  - Enrolled in the **Cisco NetAcad Junior Cybersecurity Path** (for the **CCST Cybersecurity** exam)
-  - Currently taking the **Codédex React Course** (Intermediate) 
+### 💻 Courses & Certifications
+
+- **Studying for the CompTIA Security+ Exam**  
+  - **Materials:**  
+    - **CompTIA Security+ Study Guide with Practice Tests** *(SYBEX, a Wiley brand)*  
+    - **CompTIA Bible 3-in-1 Study Guide: Security+, Network+, A+** *(Bytecert Publishing)*
+
+- **Enrolled in the Cisco NetAcad Junior Cybersecurity Path**  
+  - Preparing for the **CCST Cybersecurity** certification
+
+- **Currently Taking the Codédex React Course** *(Intermediate Level)*
 
 ---
 
