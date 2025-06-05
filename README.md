@@ -5,12 +5,7 @@
 
 ---
 
-## 🚀 About Me:
-
-<p align="center">
-   <img src="https://tryhackme-badges.s3.amazonaws.com/np430.png" alt="Your Image Badge" />
-</p>
-
+## 🚀 About Me: <p align="center"><img src="https://tryhackme-badges.s3.amazonaws.com/np430.png" alt="Your Image Badge" /></p>
 
 ### 📖 Currently Learning
 
