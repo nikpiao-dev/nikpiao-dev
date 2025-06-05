@@ -5,7 +5,8 @@
 ---
 
 <p align="center"><img src="https://tryhackme-badges.s3.amazonaws.com/np430.png" alt="Your Image Badge" /></p>
-<span>🚀 About Me: </span><h3 align="center"> A passionate and curious learner diving deep into <strong>cybersecurity</strong></h3>
+<p><strong>🚀 About Me:</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A passionate and curious learner diving deep into <strong>cybersecurity</strong></p>
+
 
 --- 
 
