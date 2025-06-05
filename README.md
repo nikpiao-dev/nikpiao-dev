@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, My name is Nik</h1>
+<h1 align="center">👋, My name is Nik</h1>
 
 ![GitHub Header](github-header-image.png)
 
