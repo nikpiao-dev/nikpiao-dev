@@ -31,7 +31,7 @@
 
 - **Studying for the CompTIA Security+ Exam**  
   - **Materials:**  
-    - **CompTIA Security+ Study Guide with Practice Tests** *(SYBEX, a Wiley brand)*  
+    - **CompTIA Security+ Study Guide with Practice Test Book** *(SYBEX, a Wiley brand)*  
     - **CompTIA Bible 3-in-1 Study Guide: Security+, Network+, A+** *(Bytecert Publishing)*
 
 - **Enrolled in the Cisco NetAcad Junior Cybersecurity Path**  
